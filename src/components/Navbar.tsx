@@ -370,3 +370,4 @@ export default function Navbar({ onOpenCreateEvent }: NavbarProps) {
     </header>
   );
 }
+

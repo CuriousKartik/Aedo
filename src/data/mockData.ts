@@ -987,3 +987,4 @@ export const INITIAL_EVENTS: EventItem[] = [
     hasRsvpd: false,
   },
 ];
+

@@ -202,3 +202,4 @@ export default function ProfileCard({ profile, highlightGoal }: ProfileCardProps
     </div>
   );
 }
+

@@ -39,3 +39,4 @@ To allow immediate end-to-end evaluation without requiring external database pro
 - **Arjun Mehta**: Final Year B.Tech CSE at IIT Bombay (Helper, GATE CSE AIR 120, GSoC Contributor).
 - **Priya Nair**: BITS Pilani Alumna, Software Engineer II at Google (Top Helper with 84 students helped).
 - Users can switch instantly via the top navigation bar or create custom accounts via the Login / Sign Up and 4-step onboarding flow.
+

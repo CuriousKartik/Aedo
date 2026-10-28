@@ -273,3 +273,4 @@ export default function BookingModal({ helper, onClose, onSuccess }: BookingModa
     </div>
   );
 }
+
